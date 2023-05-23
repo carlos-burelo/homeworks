@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\Hermano\Hermano\bin\Debug\Hermano.exe.config
+C:\Users\Carlo\source\repos\Hermano\Hermano\bin\Debug\Hermano.exe
+C:\Users\Carlo\source\repos\Hermano\Hermano\bin\Debug\Hermano.pdb
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.Form1.resources
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.Properties.Resources.resources
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.exe
+C:\Users\Carlo\source\repos\Hermano\Hermano\obj\Debug\Hermano.pdb

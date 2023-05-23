@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13E6B2E7-6511-47AE-B3B0-EAAE9E47B705}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto2doParcial</RootNamespace>
+    <AssemblyName>Proyecto2doParcial</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonExample.Designer.cs">
+      <DependentUpon>ButtonExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CaricaturaExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CaricaturaExample.Designer.cs">
+      <DependentUpon>CaricaturaExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckedListBoxExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CheckedListBoxExample.Designer.cs">
+      <DependentUpon>CheckedListBoxExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HermanoExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HermanoExample.Designer.cs">
+      <DependentUpon>HermanoExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureBoxExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PictureBoxExample.Designer.cs">
+      <DependentUpon>PictureBoxExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadioButtonExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RadioButtonExample.Designer.cs">
+      <DependentUpon>RadioButtonExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoTrianguloExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TipoTrianguloExample.Designer.cs">
+      <DependentUpon>TipoTrianguloExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToolTipExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ToolTipExample.Designer.cs">
+      <DependentUpon>ToolTipExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckBoxExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CheckBoxExample.Designer.cs">
+      <DependentUpon>CheckBoxExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TreeViewExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TreeViewExample.Designer.cs">
+      <DependentUpon>TreeViewExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabelExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LabelExample.Designer.cs">
+      <DependentUpon>LabelExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TextBoxExample.Designer.cs">
+      <DependentUpon>TextBoxExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComboBoxExample.Designer.cs">
+      <DependentUpon>ComboBoxExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculadoraExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CalculadoraExample.Designer.cs">
+      <DependentUpon>CalculadoraExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IncentivosExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IncentivosExample.Designer.cs">
+      <DependentUpon>IncentivosExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumeroMayorExample.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NumeroMayorExample.Designer.cs">
+      <DependentUpon>NumeroMayorExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Default.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Default.Designer.cs">
+      <DependentUpon>Default.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ButtonExample.resx">
+      <DependentUpon>ButtonExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaricaturaExample.resx">
+      <DependentUpon>CaricaturaExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckedListBoxExample.resx">
+      <DependentUpon>CheckedListBoxExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Default.resx">
+      <DependentUpon>Default.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HermanoExample.resx">
+      <DependentUpon>HermanoExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureBoxExample.resx">
+      <DependentUpon>PictureBoxExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RadioButtonExample.resx">
+      <DependentUpon>RadioButtonExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoTrianguloExample.resx">
+      <DependentUpon>TipoTrianguloExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolTipExample.resx">
+      <DependentUpon>ToolTipExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckBoxExample.resx">
+      <DependentUpon>CheckBoxExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreeViewExample.resx">
+      <DependentUpon>TreeViewExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabelExample.resx">
+      <DependentUpon>LabelExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxExample.resx">
+      <DependentUpon>TextBoxExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxExample.resx">
+      <DependentUpon>ComboBoxExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculadoraExample.resx">
+      <DependentUpon>CalculadoraExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncentivosExample.resx">
+      <DependentUpon>IncentivosExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumeroMayorExample.resx">
+      <DependentUpon>NumeroMayorExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cartoon.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

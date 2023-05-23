@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\bin\Debug\Caricatura.exe.config
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\bin\Debug\Caricatura.exe
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\bin\Debug\Caricatura.pdb
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.Form1.resources
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.Properties.Resources.resources
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.exe
+C:\Users\Carlo\source\repos\Caricatura\Caricatura\obj\Debug\Caricatura.pdb

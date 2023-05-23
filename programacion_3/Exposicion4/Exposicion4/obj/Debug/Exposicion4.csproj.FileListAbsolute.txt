@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\bin\Debug\Exposicion4.exe.config
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\bin\Debug\Exposicion4.exe
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\bin\Debug\Exposicion4.pdb
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.Form1.resources
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.Properties.Resources.resources
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.exe
+C:\Users\Carlo\source\repos\Exposicion4\Exposicion4\obj\Debug\Exposicion4.pdb

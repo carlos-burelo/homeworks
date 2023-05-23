@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe.config
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.pdb
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.Form1.resources
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.Properties.Resources.resources
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.exe
+C:\Users\Carlo\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.pdb

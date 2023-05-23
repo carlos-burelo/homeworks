@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\bin\Debug\TipoDeTriangulo.exe.config
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\bin\Debug\TipoDeTriangulo.exe
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\bin\Debug\TipoDeTriangulo.pdb
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.Form1.resources
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.Properties.Resources.resources
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.exe
+C:\Users\Carlo\source\repos\TipoDeTriangulo\TipoDeTriangulo\obj\Debug\TipoDeTriangulo.pdb

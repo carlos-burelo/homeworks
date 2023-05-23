@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\bin\Debug\Incentivos.exe.config
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\bin\Debug\Incentivos.exe
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\bin\Debug\Incentivos.pdb
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.Form1.resources
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.Properties.Resources.resources
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.exe
+C:\Users\Carlo\source\repos\Incentivos\Incentivos\obj\Debug\Incentivos.pdb

@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\bin\Debug\Exposicion3.exe.config
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\bin\Debug\Exposicion3.exe
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\bin\Debug\Exposicion3.pdb
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.Form1.resources
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.Properties.Resources.resources
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.exe
+C:\Users\Carlo\source\repos\Exposicion3\Exposicion3\obj\Debug\Exposicion3.pdb
